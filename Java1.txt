@@ -1,0 +1,9 @@
+/* Java Program Example - Simplest Java Program */
+		
+public class JavaProgram
+{
+    public static void main(String args[])
+    {
+       System.out.println("Hello Compiler !, I am Java..!!");
+    }
+}
